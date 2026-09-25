@@ -1,2 +1,3 @@
 # desinv1
-Proyecto para lso ejercicios de Diseño de Interefaces
+Proyecto para los ejercicios de Diseño de Interefaces
+Autor : Irene Cid
